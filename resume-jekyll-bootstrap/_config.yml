@@ -1,0 +1,36 @@
+# Site settings
+title: Nicolas Lequeux
+description: Full Stak Developer
+avatar: "img/profile/nicolas_lequeux.jpg"
+email: "contact@nicolaslequeux.com"
+
+# Meta data
+meta_author: "Nicolas Lequeux"
+meta_description: "Full Stack Freelance Developer, HTML, CSS, Javascript, Ruby, Rails, R, Shiny"
+
+meta_og_type: "website"
+meta_og_title: "Nicolas Lequeux | Full Stack Freelance Developer"
+meta_og_url: "https://www.nicolaslequeux.com"
+meta_og_image: "img/profile/meta_og_image.jpg"
+meta_og_description: "Here you can find a brief descriptions of the projects I have completed."
+
+meta_twitter_card: "summary"
+meta_twitter_site: "@nicolaslequeux"
+meat_twitter_title: "Nicolas Lequeux | Full Stack Freelance Developer"
+meta_twitter_description: "Here you can find a brief descriptions of the projects I have completed."
+meta_twitter_url: "https://www.nicolaslequeux.com"
+#Twitter image Summary card images must be at least 120x120px
+meta_twitter_image: "img/profile/meta_twitter_image.jpg"
+
+# Slug settings
+baseurl: '' # the subpath of your site, e.g. /blog
+url: '' # the base hostname & protocol for your site, e.g. http://example.com
+
+# CSS settings
+sass:
+  sass_dir: css
+  style: compressed
+
+# Build settings
+markdown: kramdown
+permalink: pretty
